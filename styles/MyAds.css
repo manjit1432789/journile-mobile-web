@@ -1,0 +1,36 @@
+.myAdsContainer {
+  padding: 0 20px;
+  margin-bottom: 50px;
+}
+
+.ads-stastics-item {
+  color: white;
+  height: 100%;
+}
+
+.ads-stastics-item label {
+  float: left;
+  font-size: 12px;
+  margin-bottom: 0 !important;
+}
+
+.ads-stastics-item span {
+  float: right;
+}
+
+.my-ads-checkbox span {
+  margin-right: 30px;
+  margin-left: -19px;
+  vertical-align: -webkit-baseline-middle;
+}
+
+.lastsectioncontent {
+  width: 50%;
+  padding: 0 13px;
+  font-size: 13px;
+}
+
+.btn-link {
+  border-radius: 10px;
+  color: white;
+}

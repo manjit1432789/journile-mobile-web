@@ -1,0 +1,12 @@
+.notification-item {
+  border-bottom: 1px solid lightgrey;
+  padding: 15px 10px;
+}
+
+.notification-avatar {
+  border-radius: 18px !important;
+}
+
+.postLinks a {
+  padding-top: 10px !important;
+}

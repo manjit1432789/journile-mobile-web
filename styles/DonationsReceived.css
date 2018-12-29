@@ -1,0 +1,25 @@
+.donations-received .dark {
+  background-color: var(--bg-color) !important;
+  color: #ffffff !important;
+}
+
+.donations-received .logo {
+  width: 50px;
+  height: auto;
+}
+
+.donations-received .titleColor {
+  color: var(--table-bg);
+}
+
+.donations-received a {
+  text-decoration: none !important;
+  color: #72fbe6;
+}
+
+.donations-received .money-history tr {
+  background-color: #ffffff;
+  color: black;
+  padding: 0.5rem;
+  vertical-align: middle;
+}

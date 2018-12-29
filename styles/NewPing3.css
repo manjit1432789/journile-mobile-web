@@ -1,0 +1,72 @@
+.btnBlue {
+  color: white;
+}
+
+.new-ping3 {
+  padding: 0 20px 50px 20px;
+}
+
+.new-ping3 .dark {
+  background-color: var(--bg-color) !important;
+  color: #ffffff !important;
+}
+
+.new-ping3 .logo {
+  width: 50px;
+  height: auto;
+}
+
+.new-ping3 .titleColor {
+  color: #ffffff;
+}
+
+.new-ping3 .inputText {
+  background: #3e5361 !important;
+  border: 0 !important;
+  color: #78d9cd !important;
+}
+
+.new-ping3 a {
+  text-decoration: none !important;
+  color: #72fbe6;
+}
+
+.new-ping3 .btnBlue:hover {
+  background-color: #6fcfc9 !important;
+}
+
+.new-ping3 i:hover{
+  color: #d7f1ef !important;
+}
+
+.new-ping3 .round-button {
+  background-color: #2fb9b3;
+  color: #ffffff;
+  border-radius: 20px;
+  border: none;
+  width: 40px;
+  height: 40px;
+  float: right;
+  outline: none !important;
+}
+
+.new-ping3 .round-button:active {
+  background-color: #27aca5;
+}
+
+.new-ping3 .ping-text {
+  color: white;
+  position: relative;
+  width: 15rem;
+  border-radius: 10px;
+  background-color: #3a757d;
+  border: 0 !important;
+  height: 40px;
+  margin-right: 20px;
+  padding: 10px;
+  outline: none !important;
+}
+
+.new-ping3 .ping-text::placeholder {
+  color: rgb(194, 194, 194);
+}

@@ -1,0 +1,69 @@
+/* Channels modal */
+
+.chanle_list_header {
+    padding: 6px 0;
+    overflow: hidden;
+    background-color: #3B5461;
+    border-radius: 5px;
+    margin: 10px 0;
+    margin-top: 20px;
+}
+
+.chanle_list_header ul {
+  margin-left: -40px;
+}
+
+.chanle_list_header ul li {
+    float: left;
+    border-right: 1px solid #ddd;
+    width: 50%;
+    list-style-type: none;
+}
+
+.chanle_list_header ul li:last-child {
+    border: none;
+}
+
+.chanel_img_area {
+    margin-top: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.single_chanel {
+    width: 33%;
+    padding: 15px 10px;
+}
+
+.channels-container {
+  margin-bottom: 50px;
+  padding: 0 20px;
+}
+
+.channel-link:visited {
+  color: white;
+}
+
+.channel-link:focus {
+  color: rgb(171, 255, 163);
+}
+
+.channel-check {
+  color: rgb(251, 255, 0);
+  width: 60px;
+  text-shadow: 2px 2px #000000;
+  float: right;
+  font-size: 25px;
+  margin-top: -55%;
+  margin-right: 13%;
+  position: relative;
+  z-index: 2;
+}

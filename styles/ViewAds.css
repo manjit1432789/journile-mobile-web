@@ -1,0 +1,71 @@
+.viewads-container {
+  padding: 0 22px 50px 22px;
+}
+
+.my-card {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.my-card .card-body {
+  padding: 10px;
+}
+
+.my-card .card-body label {
+  float: left;
+  font-size: 13px;
+  margin: 0 !important;
+}
+
+.my-card .card-body span {
+  float: right;
+  margin: 0 !important;
+}
+
+.check-label {
+  font-size: 13px;
+}
+
+.check-label span {
+  margin-right: 10px;
+  vertical-align: -webkit-baseline-middle;
+}
+
+.check-label input {
+  width: 20px;
+  height: 20px;
+}
+
+:root {
+  --bg-color: #58798c;
+}
+
+.dark {
+  background-color: var(--bg-color) !important;
+  color: #ffffff !important;
+}
+
+.logo {
+  width: 75px;
+  height: auto;
+}
+
+.titleColor {
+  color: #55dde5;
+}
+
+#btn1:hover {
+  background-color: #b97c36 !important;
+}
+
+#btn2:hover {
+  background-color: #b05c92 !important;
+}
+
+#btn3:hover {
+  background-color: #2d7cc8 !important;
+}
+
+#btn4:hover {
+  background-color: #6e7e31 !important;
+}

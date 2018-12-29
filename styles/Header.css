@@ -1,0 +1,11 @@
+.user_img_a_m img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-bottom: 15px;
+}
+
+.nav-icon-container img {
+  width: 22px;
+  height: 22px;
+}

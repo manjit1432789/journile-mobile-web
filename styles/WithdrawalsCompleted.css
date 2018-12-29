@@ -1,0 +1,25 @@
+.withdrawals-completed .dark {
+  background-color: var(--bg-color);
+  color: #ffffff;
+}
+
+.withdrawals-completed .logo {
+  width: 50px;
+  height: auto;
+}
+
+.withdrawals-completed .titleColor {
+  color: var(--table-bg);
+}
+
+.withdrawals-completed a {
+  text-decoration: none;
+  color: #72fbe6;
+}
+
+.withdrawals-completed .money-history tr {
+  background-color: #ffffff;
+  color: black;
+  padding: 0.5rem;
+  vertical-align: middle;
+}

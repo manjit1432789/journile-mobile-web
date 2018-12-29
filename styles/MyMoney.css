@@ -1,0 +1,31 @@
+.my-money-container {
+  margin-bottom: 50px;
+}
+
+.money-option-btn {
+  color: white;
+}
+
+.my-money-card {
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.my-money-card .card-body {
+  padding: 10px;
+}
+
+.my-money-card .card-body label {
+  float: left;
+  font-size: 13px;
+  margin: 0 !important;
+}
+
+.my-money-card .card-body span {
+  float: right;
+  margin: 0 !important;
+}
+
+.my-money-card a {
+  color: white !important;
+}
